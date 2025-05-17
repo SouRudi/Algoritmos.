@@ -1,1 +1,101 @@
-teste1
+Questões (Algoritmos e lógica de programação).
+
+1. 
+  I-Pegar a escada.
+  II-Posicionar a escada enbaixo da lâmpada.
+  III-Buscar a lâmpada reserva.
+  IV-Subir na escada.
+  V-Retirar a lâmpada velha.
+  VI-Colocar a lâmpada reserva.
+
+2.
+  Usando a fatoração, temos:
+
+  Informar os números naturais;
+  decompô-los em fatores primos;
+  escreve-los em forma fatorada;
+  selecionar os fatores comuns com menor expoente;
+  resolver as potências;
+  multiplicar o resultado das potências;
+  escrever o resultado;
+
+3.
+  I-Leva o bode e volta sozinho
+  II-Leva o lobo e volta com o bode
+  III-Deixa o bode e leva o maço
+  IV-Leva o maço e volta sozinho
+  V-Volta e leva o bode
+
+4.  
+  1 .Embarco 1 jesuíta e 1 canibal, levando-os para a margem direita.
+  2.1 canibal desembarca e 1 jesuíta volta no barco.
+  3.1 canibal embarca, indo 1C e 1J para a margem direita.
+  4.desembarca 1 jesuíta e rotorna um canibal no barco.
+  5.embarca 1 jesuíta, indo 1C e 1J no barco.
+  6.desembarca 1 jesuíta, e 1C retorna no barco.
+  7.embarca 1 canibal, e o barco vai para a margem direita com 2C
+  8.desembarca 1 canibal, e o outro canibal retorna para a margem esquerda.
+  9.embarca 1 jesuíta e o barco vai até a margem direita com 1J e 1C
+  10.ambos desembarcam.
+
+5.
+  disco 1 > torre c.
+  disco 2 > torre b.
+  disco 1 > torre b.
+  disco 3 > torre c.
+  disco 1 > torre a.
+  disco 2 > torre c.
+  disco 1 > torre c.
+
+6.
+  Amanda-livro
+  Bete-vestido
+  Camila-bolsa
+  Divina-gravata
+  Elisa-candeeiro
+  Filomena-chapéu
+
+7.
+  1.A (3L de C para A)
+  2. B → C (3L de B para C)
+  3. C → A (3L de C para A)
+  4. B → C (2L de B para C)
+  5. C → A (2L de C para A)
+  6. A → B (5L de A para B)
+  7. B → C (3L de B para C)
+  8. C → A (3L de C para A)
+  9. B → C (2L de B para C)
+  10. C → A (2L de C para A)
+  11. A → B (4L de A para B)
+
+8.
+  João-Harpa
+  Antônio-Violino
+  Francisco-piano
+
+9.
+Pessoa----------Bebida
+João	  -     limonada
+Miguel	-      guaraná
+Nádia	  -       whisky
+Sílvia	-     champanhe
+Afonso	-         água
+Cristina-	    vermouth
+Geraldo	-         vinho
+Júlio	  -         café
+Maria	  -    laranjada
+Máximo	-        vodka
+Ivone	  -          chá
+Manuel	-       cerveja
+
+10.
+Nomes-------------Modalidade------------posição
+
+Teodoro             100m rasos                1
+Gumercindo        arremesso de d.             2
+Barnabé            salto à dist.              3
+
+
+Teodoro-    1 nos 100m // 2 no salto // 3 no arremesso.
+Barnabé-    1 no arremesso // 2 nos 100m // 3 no salto.
+Gumercindo- 1 no salto // 2 no arremesso // 3 nos 100m.
