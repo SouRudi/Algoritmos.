@@ -1,0 +1,64 @@
+Problema 3 {
+  funcao inicio() {
+    
+    real n1,n2,n3,n4,media_aritmetica
+
+    escreva( "informe a 1° nota: \n")
+    leia(n1)
+
+    escreva( "informe a 2° nota: \n")
+    leia(n2)
+
+    escreva( "informe a 3° nota: \n")
+    leia(n3)   
+    
+    escreva( "informe a 4° nota: \n")
+    leia(n4)
+
+    media_aritmetica = (n1+n2+n3+n4)/4
+
+    escreva("a média é ", media_aritmetica)
+
+  }
+}
+
+Problema 4 {
+  funcao inicio() {
+    
+    real g1,g2,g3,media_aritmetica
+
+    escreva( "informe o gasto do 1° mês: \n")
+    leia(g1)
+
+    escreva( "informe o gasto do 2° mês: \n")
+    leia(g2)
+
+    escreva( "informe o gasto do 3° mês: \n")
+    leia(g3)
+
+    media_aritmetica = (g1+g2+g3)/3
+
+    escreva("a média é ", media_aritmetica)
+
+  }
+}
+
+Problema 5 {
+  funcao inicio() {
+    
+    real altura,peso
+
+    const real k = 72.7
+    const real B = 58
+
+
+    escreva("informe a sua altura: \n")
+    leia(altura)
+
+    peso = k*altura-B
+
+    escreva("O seu peso ideal é ",peso)
+
+
+  }
+}
