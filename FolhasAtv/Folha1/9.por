@@ -4,7 +4,8 @@ programa {
     inteiro original = 123,unidade,dezena,centena
 
     escreva("digite um número de 3 digitos: ") 
-
+    leia(original)
+    
     escreva("NÚMERO ANTES DA INVERSÃO\n")
     escreva(original,"\n")
 
