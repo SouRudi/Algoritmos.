@@ -3,8 +3,6 @@ programa {
 
     real c,f
 
-    
-
     escreva("Qual é a temperatura (em celcius)? \n")
     leia(c)
 
