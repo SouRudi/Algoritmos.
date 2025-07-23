@@ -2,17 +2,17 @@
 
 int main()
 {
-    float r;
-    float h;
+    float raio;
+    float alt;
 
 
     printf("Qual a altura da embalagem: \n");
-    scanf("%f", &h);
+    scanf("%f", &alt);
 
     printf("Qual o raio da embalagem: \n");
-    scanf("%f", &r);
+    scanf("%f", &raio);
 
-    float vol = 3.14159 * r * h;
+    float vol = 3.14159 * raio * alt;
 
     printf("O volume da embalagem e : %.2f\n ", vol);
 
