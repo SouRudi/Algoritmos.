@@ -11,10 +11,10 @@ int main()
     scanf("%f", &raio);
 
     float vol = 3.14159 * raio * alt;
-    printf("O volume da embalagem eh: %.2f\n ", vol);
+    printf("O volume da embalagem eh: %.1f (mL)\n", vol);
 
-    float ml = vol*1000;
-    printf("O volume em litros eh: %.1f (L)\n", ml);
+    float ml = vol * 1000;
+    printf("O volume em litros eh: %.0f (L)\n", ml);
 
     return 0;
 }
