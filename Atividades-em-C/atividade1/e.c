@@ -8,7 +8,6 @@ int main()
     scanf("%f",&far);
 
     float cel= ((far-32)*5) /9;
-
     printf("A temperatura em Celsuis e: %.2f\n",cel);
 
     return 0;
