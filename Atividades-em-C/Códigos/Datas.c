@@ -29,8 +29,13 @@ int main(){
     printf("Informe o ano: \n");
     scanf("%d", &ano);
 
+    if(mes<=12 && dia <= 31){
     printf("A data completa é: %.2d/%.2d/%.4d", dia, mes, ano);
+    }else{
+    printf("Data inválida");
+    }
 
     return 0;
 }
 */
+
