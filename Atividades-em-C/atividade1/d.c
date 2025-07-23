@@ -1,14 +1,14 @@
 #include <stdio.h>
 
 int main() {
-    float c;
+    float cel;
     
     printf("Digite a temperatura em cº: \n");
-    scanf("%f",&c);
+    scanf("%f",&cel);
     
-    float f = (9*c + 160)/5;
+    float far = (9*cel + 160)/5;
     
-    printf("A temperatura em Fº e: %.2f\n",f);
+    printf("A temperatura em Fº e: %.2f\n",far);
     
     return 0;
 }
