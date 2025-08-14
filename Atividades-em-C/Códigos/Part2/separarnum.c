@@ -7,15 +7,15 @@ int main() {
     scanf("%d", &num);
 
     printf("Dígitos separados: ");
-    printf("%d ", num / 10000);   
+    printf("%d   ", num / 10000);   
     num %= 10000;
-    printf("%d ", num / 1000);    
+    printf("%d   ", num / 1000);    
     num %= 1000;
-    printf("%d ", num / 100);     
+    printf("%d   ", num / 100);     
     num %= 100;
-    printf("%d ", num / 10);     
+    printf("%d   ", num / 10);     
     num %= 10;
-    printf("%d\n", num);        
+    printf("%d  \n", num);        
 
     return 0;
 }
