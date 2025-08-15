@@ -18,6 +18,8 @@ int main() {
     scanf("%d", &conta);
     printf("\n");
 
+    if(conta > 0){
+
     printf("\tConta acessada: %.6d", conta);
     printf("\n");
 
@@ -28,7 +30,11 @@ int main() {
     }else{
 
     printf("\t\tAcesso negado");
+    }
 
+    }else{
+
+    printf("\t\tAcesso negado");
     }
 
     return 0;
